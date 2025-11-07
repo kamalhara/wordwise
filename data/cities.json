@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Tosos",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-10-01T15:38:53.284Z",
+      "notes": "",
+      "position": {
+        "lat": "41.290871590191166",
+        "lng": "-1.115555154008674"
+      },
+      "id": 73930386
+    },
+    {
+      "cityName": "Ledrada",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-10-01T15:38:56.299Z",
+      "notes": "",
+      "position": {
+        "lat": "40.47576592119441",
+        "lng": "-5.709219033268434"
+      },
+      "id": 73930387
+    }
+  ]
+}
